@@ -1,4 +1,4 @@
-NOTE: This is my old template and it is no longer in use. my new, and current template can be found at: 
+NOTE: This is my old template and it is no longer in use. my new, and current template can be found at: https://github.com/Pierceisgone/BlenderTemplate
 You can however still use this template.
 
 You can contact me via my public email: piercemikyoto@420blaze.it
